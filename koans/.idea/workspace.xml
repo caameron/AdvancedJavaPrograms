@@ -3,10 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="bec90886-b183-4329-b979-ea8609e65cca" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/bin/beginner/AboutAssertions.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/bin/beginner/AboutAssertions.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/config/file_hashes.dat" beforeDir="false" afterPath="$PROJECT_DIR$/app/config/file_hashes.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginner/AboutAssertions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner/AboutAssertions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/beginner/AboutEquality.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner/AboutEquality.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginner/AboutArithmeticOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner/AboutArithmeticOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/beginner/AboutConditionals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner/AboutConditionals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/beginner/AboutStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/beginner/AboutStrings.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
@@ -29,10 +28,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/beginner/AboutStrings.java">
+        <entry file="file://$PROJECT_DIR$/src/beginner/AboutConditionals.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="159" lean-forward="true" selection-start-line="159" selection-end-line="159" />
+            <state relative-caret-position="442">
+              <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -49,6 +48,8 @@
         <option value="$PROJECT_DIR$/src/beginner/AboutAssertions.java" />
         <option value="$PROJECT_DIR$/src/beginner/AboutEquality.java" />
         <option value="$PROJECT_DIR$/src/beginner/AboutStrings.java" />
+        <option value="$PROJECT_DIR$/src/beginner/AboutArithmeticOperators.java" />
+        <option value="$PROJECT_DIR$/src/beginner/AboutConditionals.java" />
       </list>
     </option>
   </component>
@@ -65,10 +66,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="643" />
-    <option name="y" value="421" />
+    <option name="x" value="996" />
+    <option name="y" value="68" />
     <option name="width" value="921" />
-    <option name="height" value="1152" />
+    <option name="height" value="1100" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -76,6 +77,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -98,8 +101,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -140,17 +141,20 @@
       <workItem from="1562035078755" duration="426000" />
       <workItem from="1562098332364" duration="327000" />
       <workItem from="1562708441161" duration="4114000" />
+      <workItem from="1562775372506" duration="22000" />
+      <workItem from="1562775696149" duration="10000" />
+      <workItem from="1563132213907" duration="791000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4867000" />
+    <option name="totallyTimeSpent" value="5690000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1215" height="775" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.46233767" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15085287" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -207,8 +211,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/beginner/AboutStrings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="159" lean-forward="true" selection-start-line="159" selection-end-line="159" />
+        <state relative-caret-position="762">
+          <caret line="184" column="69" selection-start-line="184" selection-start-column="69" selection-end-line="184" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/beginner/AboutArithmeticOperators.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="53" column="24" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/beginner/AboutConditionals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
         </state>
       </provider>
     </entry>
