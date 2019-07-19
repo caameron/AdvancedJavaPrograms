@@ -3,9 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="bec90886-b183-4329-b979-ea8609e65cca" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediate/AboutAutoboxing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate/AboutAutoboxing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediate/AboutCollections.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate/AboutCollections.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/config/file_hashes.dat" beforeDir="false" afterPath="$PROJECT_DIR$/app/config/file_hashes.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/intermediate/AboutComparison.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate/AboutComparison.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intermediate/AboutDates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate/AboutDates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intermediate/AboutEquality.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate/AboutEquality.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -33,17 +34,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/intermediate/AboutCollections.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="850">
+            <state relative-caret-position="1921">
               <caret line="118" column="39" selection-start-line="118" selection-start-column="39" selection-end-line="118" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/intermediate/AboutComparison.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="75" column="36" selection-start-line="75" selection-start-column="36" selection-end-line="75" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/intermediate/AboutDates.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+              <caret line="55" column="46" lean-forward="true" selection-start-line="55" selection-start-column="46" selection-end-line="55" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/intermediate/AboutEquality.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="142" column="69" selection-start-line="142" selection-start-column="69" selection-end-line="142" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -77,6 +96,8 @@
         <option value="$PROJECT_DIR$/src/intermediate/AboutAutoboxing.java" />
         <option value="$PROJECT_DIR$/src/intermediate/AboutCollections.java" />
         <option value="$PROJECT_DIR$/src/intermediate/AboutComparison.java" />
+        <option value="$PROJECT_DIR$/src/intermediate/AboutDates.java" />
+        <option value="$PROJECT_DIR$/src/intermediate/AboutEquality.java" />
       </list>
     </option>
   </component>
@@ -93,10 +114,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-544" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1096" />
+    <option name="x" value="-545" />
+    <option name="y" value="-9" />
+    <option name="width" value="1937" />
+    <option name="height" value="1097" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -104,6 +125,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -127,7 +149,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -135,7 +156,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../project2-AdvancedJava" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -177,6 +198,7 @@
       <workItem from="1563247856967" duration="1232000" />
       <workItem from="1563315914622" duration="268000" />
       <workItem from="1563543341895" duration="3231000" />
+      <workItem from="1563549813445" duration="2809000" />
     </task>
     <task id="LOCAL-00001" summary="working on conditionals">
       <created>1563133019240</created>
@@ -203,13 +225,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18162000" />
+    <option name="totallyTimeSpent" value="20971000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="-7" y="-7" width="1215" height="775" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15565032" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15844156" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -447,15 +469,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/intermediate/AboutCollections.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
+        <state relative-caret-position="1921">
           <caret line="118" column="39" selection-start-line="118" selection-start-column="39" selection-end-line="118" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/intermediate/AboutComparison.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="75" column="36" selection-start-line="75" selection-start-column="36" selection-end-line="75" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/intermediate/AboutDates.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+          <caret line="55" column="46" lean-forward="true" selection-start-line="55" selection-start-column="46" selection-end-line="55" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/intermediate/AboutEquality.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="142" column="69" selection-start-line="142" selection-start-column="69" selection-end-line="142" selection-end-column="69" />
         </state>
       </provider>
     </entry>
