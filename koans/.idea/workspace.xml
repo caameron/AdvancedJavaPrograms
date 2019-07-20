@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="bec90886-b183-4329-b979-ea8609e65cca" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/config/file_hashes.dat" beforeDir="false" afterPath="$PROJECT_DIR$/app/config/file_hashes.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediate/AboutComparison.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate/AboutComparison.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediate/AboutDates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate/AboutDates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intermediate/AboutEquality.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate/AboutEquality.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intermediate/AboutLocale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate/AboutLocale.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intermediate/AboutRegularExpressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/intermediate/AboutRegularExpressions.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,46 +21,32 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/intermediate/AboutAutoboxing.java">
+        <entry file="file://$PROJECT_DIR$/src/intermediate/AboutInnerClasses.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="44" column="44" selection-start-line="44" selection-start-column="44" selection-end-line="44" selection-end-column="44" />
+            <state relative-caret-position="204">
+              <caret line="133" column="9" lean-forward="true" selection-start-line="133" selection-start-column="9" selection-end-line="133" selection-end-column="9" />
+              <folding>
+                <element signature="e#2406#2407#0" expanded="true" />
+                <element signature="e#2468#2469#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/intermediate/AboutCollections.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1921">
-              <caret line="118" column="39" selection-start-line="118" selection-start-column="39" selection-end-line="118" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/intermediate/AboutComparison.java">
+        <entry file="file://$PROJECT_DIR$/src/intermediate/AboutLocale.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
-              <caret line="75" column="36" selection-start-line="75" selection-start-column="36" selection-end-line="75" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/intermediate/AboutDates.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="55" column="46" lean-forward="true" selection-start-line="55" selection-start-column="46" selection-end-line="55" selection-end-column="46" />
+              <caret line="42" selection-start-line="42" selection-start-column="2" selection-end-line="48" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/intermediate/AboutEquality.java">
+        <entry file="file://$PROJECT_DIR$/src/intermediate/AboutRegularExpressions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="142" column="69" selection-start-line="142" selection-start-column="69" selection-end-line="142" selection-end-column="69" />
+            <state relative-caret-position="442">
+              <caret line="54" column="42" selection-start-line="54" selection-start-column="42" selection-end-line="54" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -98,6 +82,10 @@
         <option value="$PROJECT_DIR$/src/intermediate/AboutComparison.java" />
         <option value="$PROJECT_DIR$/src/intermediate/AboutDates.java" />
         <option value="$PROJECT_DIR$/src/intermediate/AboutEquality.java" />
+        <option value="$PROJECT_DIR$/src/intermediate/AboutFileIO.java" />
+        <option value="$PROJECT_DIR$/src/intermediate/AboutInnerClasses.java" />
+        <option value="$PROJECT_DIR$/src/intermediate/AboutLocale.java" />
+        <option value="$PROJECT_DIR$/src/intermediate/AboutRegularExpressions.java" />
       </list>
     </option>
   </component>
@@ -114,10 +102,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-545" />
-    <option name="y" value="-9" />
-    <option name="width" value="1937" />
-    <option name="height" value="1097" />
+    <option name="x" value="-11" />
+    <option name="width" value="920" />
+    <option name="height" value="1151" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -198,7 +185,7 @@
       <workItem from="1563247856967" duration="1232000" />
       <workItem from="1563315914622" duration="268000" />
       <workItem from="1563543341895" duration="3231000" />
-      <workItem from="1563549813445" duration="2809000" />
+      <workItem from="1563549813445" duration="8139000" />
     </task>
     <task id="LOCAL-00001" summary="working on conditionals">
       <created>1563133019240</created>
@@ -221,11 +208,25 @@
       <option name="project" value="LOCAL" />
       <updated>1563545073092</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="On Intermediate">
+      <created>1563555387981</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1563555387981</updated>
+    </task>
+    <task id="LOCAL-00005" summary="On Intermediate">
+      <created>1563590356558</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1563590356558</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20971000" />
+    <option name="totallyTimeSpent" value="26301000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1215" height="775" extended-state="6" />
@@ -297,7 +298,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="working on conditionals" />
     <MESSAGE value="Worked through a good amount to 150/271" />
-    <option name="LAST_COMMIT_MESSAGE" value="Worked through a good amount to 150/271" />
+    <MESSAGE value="On Intermediate" />
+    <option name="LAST_COMMIT_MESSAGE" value="On Intermediate" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/beginner/AboutArithmeticOperators.java">
@@ -491,7 +493,39 @@
     <entry file="file://$PROJECT_DIR$/src/intermediate/AboutEquality.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
-          <caret line="142" column="69" selection-start-line="142" selection-start-column="69" selection-end-line="142" selection-end-column="69" />
+          <caret line="142" column="71" lean-forward="true" selection-start-line="142" selection-start-column="71" selection-end-line="142" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/intermediate/AboutFileIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-612">
+          <caret line="47" column="85" lean-forward="true" selection-start-line="47" selection-start-column="85" selection-end-line="47" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/intermediate/AboutInnerClasses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="133" column="9" lean-forward="true" selection-start-line="133" selection-start-column="9" selection-end-line="133" selection-end-column="9" />
+          <folding>
+            <element signature="e#2406#2407#0" expanded="true" />
+            <element signature="e#2468#2469#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/intermediate/AboutLocale.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="42" selection-start-line="42" selection-start-column="2" selection-end-line="48" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/intermediate/AboutRegularExpressions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="54" column="42" selection-start-line="54" selection-start-column="42" selection-end-line="54" selection-end-column="42" />
         </state>
       </provider>
     </entry>
