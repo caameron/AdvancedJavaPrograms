@@ -3,6 +3,8 @@ package intermediate;
 import com.sandwich.koan.Koan;
 
 import java.io.*;
+import java.nio.Buffer;
+import java.util.Arrays;
 import java.util.logging.Logger;
 
 import static com.sandwich.koan.constant.KoanConstants.__;
@@ -13,17 +15,18 @@ public class AboutFileIO {
     @Koan
     public void fileObjectDoesntCreateFile() {
         File f = new File("foo.txt");
-        assertEquals(f.exists(), __);
+        assertEquals(f.exists(), false);
     }
 
     @Koan
     public void fileCreationAndDeletion() throws IOException {
         File f = new File("foo.txt");
         f.createNewFile();
-        assertEquals(f.exists(), __);
+        assertEquals(f.exists(), true);
         f.delete();
-        assertEquals(f.exists(), __);
+        assertEquals(f.exists(), false);
     }
+
 
     @Koan
     public void basicFileWritingAndReading() throws IOException {
@@ -39,10 +42,10 @@ public class AboutFileIO {
         size = fr.read(in);
         // No flush necessary!
         fr.close();
-        assertEquals(size, __);
+        assertEquals(size, 22);
         String expected = new String(in);
-        assertEquals(expected.length(), __);
-        assertEquals(expected, __);
+        assertEquals(expected.length(), 50);
+        assertEquals(expected, "First line\nSecond line" + new String(new char[28]));
         file.delete();
     }
 
@@ -60,9 +63,9 @@ public class AboutFileIO {
         BufferedReader br = null;
         try {
             br = new BufferedReader(fr);
-            assertEquals(br.readLine(), __); // first line
-            assertEquals(br.readLine(), __); // second line
-            assertEquals(br.readLine(), __); // what now?
+            assertEquals(br.readLine(), "First line"); // first line
+            assertEquals(br.readLine(), "Second line"); // second line
+            assertEquals(br.readLine(),null); // what now?
         } finally {
             // anytime you open access to a file, you should close it or you may
             // lock it from other processes (ie frustrate people)
@@ -89,6 +92,22 @@ public class AboutFileIO {
         pw.close();
 
         StringBuffer sb = new StringBuffer();
+        FileReader fr = new FileReader(file);
+        BufferedReader br = null;
+        try
+        {
+            br = new BufferedReader(fr);
+            boolean lastLn = false;
+            for(String ln = br.readLine(); ln != null;ln = br.readLine())
+            {
+                sb.append(ln + "\n");
+            }
+            sb.setLength(sb.length() - 1);
+
+        }
+        finally {
+            closeStream(br);
+        }
         // Add the loop to go through the file line by line and add the line
         // to the StringBuffer
         assertEquals(sb.toString(), "1. line\n2. line");
