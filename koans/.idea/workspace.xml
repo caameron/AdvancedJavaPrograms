@@ -3,10 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="bec90886-b183-4329-b979-ea8609e65cca" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/AboutDefaultMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/AboutDefaultMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/AboutLambdas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/AboutLambdas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/AboutLocalTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/AboutLocalTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8/AboutOptional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/AboutOptional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/AboutBase64.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/AboutBase64.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/AboutMultipleInheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/AboutMultipleInheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8/AboutStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8/AboutStreams.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,99 +16,33 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java7/AboutJava7LiteralsEnhancements.java">
+        <entry file="file://$PROJECT_DIR$/src/java8/AboutStreams.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="40" column="39" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
+            <state relative-caret-position="762">
+              <caret line="132" column="69" selection-start-line="132" selection-start-column="69" selection-end-line="132" selection-end-column="69" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java7/AboutStringsInSwitch.java">
+        <entry file="file://$PROJECT_DIR$/src/java8/AboutMultipleInheritance.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java7/AboutDiamondOperator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java7/AboutTryWithResources.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="643">
-              <caret line="98" column="91" selection-start-line="98" selection-start-column="91" selection-end-line="98" selection-end-column="91" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java7/AboutRequireNotNull.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java8/AboutDefaultMethods.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="24" column="51" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
-              <folding>
-                <element signature="e#671#672#0" expanded="true" />
-                <element signature="e#729#730#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java8/AboutOptional.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="27" column="49" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java8/AboutLocalTime.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+            <state relative-caret-position="408">
+              <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/java8/AboutLambdas.java">
+        <entry file="file://$PROJECT_DIR$/src/java8/AboutBase64.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="728">
-              <caret line="85" column="38" selection-start-line="85" selection-start-column="38" selection-end-line="85" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1473#1474#0" expanded="true" />
-                <element signature="e#1537#1538#0" expanded="true" />
-                <element signature="e#1581#1582#0" expanded="true" />
-                <element signature="e#1649#1650#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="442">
+              <caret line="32" column="67" selection-start-line="32" selection-start-column="67" selection-end-line="32" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -160,6 +93,9 @@
         <option value="$PROJECT_DIR$/src/java8/AboutOptional.java" />
         <option value="$PROJECT_DIR$/src/java8/AboutLocalTime.java" />
         <option value="$PROJECT_DIR$/src/java8/AboutLambdas.java" />
+        <option value="$PROJECT_DIR$/src/java8/AboutStreams.java" />
+        <option value="$PROJECT_DIR$/src/java8/AboutMultipleInheritance.java" />
+        <option value="$PROJECT_DIR$/src/java8/AboutBase64.java" />
       </list>
     </option>
   </component>
@@ -309,11 +245,18 @@
       <option name="project" value="LOCAL" />
       <updated>1563599074520</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="18  more to go">
+      <created>1563600095516</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1563600095516</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30112000" />
+    <option name="totallyTimeSpent" value="31743000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -387,7 +330,8 @@
     <MESSAGE value="Worked through a good amount to 150/271" />
     <MESSAGE value="On Intermediate" />
     <MESSAGE value="Java 7 Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java 7 Done" />
+    <MESSAGE value="18  more to go" />
+    <option name="LAST_COMMIT_MESSAGE" value="18  more to go" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/beginner/AboutArithmeticOperators.java">
@@ -710,6 +654,27 @@
             <element signature="e#1581#1582#0" expanded="true" />
             <element signature="e#1649#1650#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java8/AboutStreams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="762">
+          <caret line="132" column="69" selection-start-line="132" selection-start-column="69" selection-end-line="132" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java8/AboutMultipleInheritance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java8/AboutBase64.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="32" column="67" selection-start-line="32" selection-start-column="67" selection-end-line="32" selection-end-column="67" />
         </state>
       </provider>
     </entry>
