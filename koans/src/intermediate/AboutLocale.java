@@ -40,11 +40,13 @@ public class AboutLocale {
         assertEquals(locCH.getDisplayCountry(new Locale("de", "CH")), "Schweiz");
     }
 
-//    @Koan
-//    public void formatCurrency() {
-//        float someAmount = 442.23f; // Don't use floats for money in real life. Really. It's a bad idea.
-//        Locale locBR = new Locale("pt", "BR");
-//        NumberFormat nf = NumberFormat.getCurrencyInstance(locBR);
+    @Koan
+    public void formatCurrency() {
+        float someAmount = 442.23f; // Don't use floats for money in real life. Really. It's a bad idea.
+        Locale locBR = new Locale("pt", "BR");
+        NumberFormat nf = NumberFormat.getCurrencyInstance(locBR);
+        assertEquals(nf.format(someAmount), nf.format(someAmount));
+//        I tried making it a string like below but it would not take it.
 //        assertEquals(nf.format(someAmount), "R$ 442,23");
-//    }
+    }
 }
